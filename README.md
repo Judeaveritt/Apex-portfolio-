@@ -37,6 +37,6 @@ This repository does not include:
 
 ## Contact
 
-- **GitHub:** [@USERNAME](https://github.com/USERNAME)
+- **GitHub:** [@jUDEAVERITT](https://github.com/JUDEAVERITT)
 - **LinkedIn:** [Optional link]
 - **Email:** [Optional school-approved or professional email]
