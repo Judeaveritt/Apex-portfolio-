@@ -39,4 +39,4 @@ This repository does not include:
 
 - **GitHub:** [@jUDEAVERITT](https://github.com/JUDEAVERITT)
 - **LinkedIn:** [Optional link]
-- **Email:** [Optional school-approved or professional email]
+- **Email:** Judeaveritt@gmail.com
