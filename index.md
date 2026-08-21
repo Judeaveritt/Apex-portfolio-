@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# [Student Name]
+# Jude Averitt 
 
-## Apex [Creative Computing / Cybersecurity] Portfolio
+## Apex Creative Computing Portfolio
 
 Welcome to my portfolio. I am an Apex student building skills in **[programming, physical computing, interactive technology, networking, cybersecurity, system administration, or other areas]**.
 
