@@ -4,7 +4,7 @@ This repository contains my student portfolio for the **Apex Creative Computing 
 
 ## Portfolio
 
-**[Open Portfolio](https://USERNAME.github.io/REPOSITORY-NAME/)**
+**[Open Portfolio](https://Judeaveritt.github.io/Apex-portfolio-/)**
 
 ## About Me
 
@@ -15,7 +15,7 @@ I am a student at Apex in the Boulder Valley School District, and I will graduat
 - **Home:** Introduction and featured work
 - **Resume:** Education, skills, experience, and certifications
 - **Artifacts:** Selected evidence of my technical and professional learning
-
+    
 ## Featured Skills
 
 - [Skill]
