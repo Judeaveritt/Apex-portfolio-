@@ -8,8 +8,7 @@ This repository contains my student portfolio for the **Apex Creative Computing 
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. After high school, I plan to [plans]. I am interested in [intersests]
-
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. My home high school is fairview. i am really into music and sports cards. 
 ## Portfolio Contents
 
 - **Home:** Introduction and featured work
