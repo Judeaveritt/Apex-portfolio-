@@ -17,11 +17,11 @@ This is
 
 ## The Artifact
 
+<img src="plan for adventure.jpg" width="512">
 
 
-![Description of artifact](ARTIFACT-IMAGE.png)
 
-[View the full artifact](LINK-TO-ARTIFACT)
+[View the full artifact](iep.pdf)
 
 ## Skills Demonstrated
 
@@ -31,13 +31,12 @@ This is
 
 ## Tools and Technologies
 
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
+- Google Docs
+- Draw.io
 
 ## Implementation
 
-[Explain how you created this artifact. Describe the major decisions, technical work, problem-solving, testing, troubleshooting, or revisions involved.]
+I started out with a idea of what i wanted my interactive experience to be about. with that information I started to make my Flow chart and when i had an idea i would add. I did this for a wile and when i had a idea just pu tit down. then when i came to a big dision i would go back to the google doc and add in the key information. this is how i mad my plan for the interactive experience 
 
 [Include process images if they help explain your work.]
 ![Describe image](PROCESS-IMAGE.png)
@@ -45,7 +44,7 @@ This is
 
 ## What I Learned
 
-[Describe what you learned technically or professionally and what you would do differently next time.]
+During this plan I learned now to make a flow chart. I learned how you mark start and stops with difrent shapes. I also learned how what was good to write down in the google doc.   
 
 ---
 
