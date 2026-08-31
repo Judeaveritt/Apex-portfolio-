@@ -15,33 +15,34 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### On-Demand Knowledge Check for number conversions 
+<p class="artifact-meta">Image|August 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+This artifact is how we showed are understanding of converting numbers. For the On-Demand Knowledge Check for we hade to complete 25 conversion problems to show are knowledge.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Number conversions</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+
+[View Artifact](artifacts/number_conversion/)
 
 </div>
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### Work station
+<p class="artifact-meta">Image |August 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+For this artifact we worked on setting up the stations. The first thing that we did was take the monitor out of that box and assemble it. Next we took out the doing station and connected it to the monitor. After that all we had to do was plug it into the wall and plug the computer in to the docking station. after that we had to take inventory for everything. we used a spread sheet where we put dow make model and serial number for everything.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Collaboration</span>
+<span class="skill-tag">communication</span>
+<span class="skill-tag">responsibility</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/Work station/)
 
 </div>
 
