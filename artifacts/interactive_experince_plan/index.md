@@ -9,7 +9,7 @@ title: interactive experince plan
 
 ## Summary
 
-This is the plan for my interactive experience. it has the written out plan and also a flow chart of the path that will be implemented into the game. 
+This is the plan for my interactive experience. It has the written out plan and also a flow chart of the path that will be implemented into the game. 
 
 **Project:** interactive experience plan
 

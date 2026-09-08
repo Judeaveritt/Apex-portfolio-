@@ -48,11 +48,10 @@ For this artifact we worked on setting up the stations. The first thing that we 
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### Interactive experience plan
+<p class="artifact-meta">interactive_experience_plan | [Month Year]</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
-
+This is the plan for my interactive experience. It has the written out plan of what my game is about and what your adjetives are and also a flow chart of the path that will be implemented into the game. 
 **Skills demonstrated:**
 
 <span class="skill-tag">[Skill]</span>
