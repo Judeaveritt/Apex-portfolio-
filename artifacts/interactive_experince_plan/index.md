@@ -9,7 +9,7 @@ title: interactive experince plan
 
 ## Summary
 
-This is 
+This is the plan for my interactive experience. it has the written out plan and also a flow chart of the path that will be implemented into the game. 
 
 **Project:** interactive experience plan
 
@@ -44,7 +44,7 @@ I started out with a idea of what i wanted my interactive experience to be about
 
 ## What I Learned
 
-During this plan I learned now to make a flow chart. I learned how you mark start and stops with difrent shapes. I also learned how what was good to write down in the google doc.   
+During this plan I learned now to make a flow chart to plan out what my games paths will be. I learned how you mark start and stops with different shapes. I also learned what is good to what to done for a plan.
 
 ---
 
