@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Artifacts
+title: ARTIFACT
 ---
 
 # Portfolio Artifacts
