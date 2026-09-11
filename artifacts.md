@@ -13,6 +13,27 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 
 ## Featured Artifacts
 
+
+<div class="artifact-card" markdown="1">
+
+### Inertarative experience game  
+<p class="artifact-meta">Image |August 2026</p>
+
+This perfect we made a interactive experience game. we added different ending and different pathways though the game. my game is about trying to steal a crown form the kings castle and the game is about you adventure to get there and try to get out.
+
+**Skills demonstrated:**
+
+<span class="skill-tag">functions</span>
+<span class="skill-tag">conditionals</span>
+<span class="skill-tag">collaboration</span>
+[View Artifact](artifacts/Work station/)
+
+[View Artifact](artifacts/interative_experince _game/)
+
+
+<div
+
+
 <div class="artifact-card" markdown="1">
 
 ### On-Demand Knowledge Check for number conversions 
@@ -26,23 +47,6 @@ This artifact is how we showed are understanding of converting numbers. For the 
 
 
 [View Artifact](artifacts/number_conversion/)
-
-</div>
-
-<div class="artifact-card" markdown="1">
-
-### Work station
-<p class="artifact-meta">Image |August 2026</p>
-
-For this artifact we worked on setting up the stations. The first thing that we did was take the monitor out of that box and assemble it. Next we took out the doing station and connected it to the monitor. After that all we had to do was plug it into the wall and plug the computer in to the docking station. after that we had to take inventory for everything. we used a spread sheet where we put dow make model and serial number for everything.
-
-**Skills demonstrated:**
-
-<span class="skill-tag">Collaboration</span>
-<span class="skill-tag">communication</span>
-<span class="skill-tag">responsibility</span>
-
-[View Artifact](artifacts/Work station/)
 
 </div>
 
@@ -78,6 +82,21 @@ This is the plan for my interactive experience. It has the written out plan of w
 
 
 ---
+### Work station
+<p class="artifact-meta">Image |August 2026</p>
+
+For this artifact we worked on setting up the stations. The first thing that we did was take the monitor out of that box and assemble it. Next we took out the doing station and connected it to the monitor. After that all we had to do was plug it into the wall and plug the computer in to the docking station. after that we had to take inventory for everything. we used a spread sheet where we put dow make model and serial number for everything.
+
+**Skills demonstrated:**
+
+<span class="skill-tag">Collaboration</span>
+<span class="skill-tag">communication</span>
+<span class="skill-tag">responsibility</span>
+
+[View Artifact](artifacts/Work station/)
+
+---
+
 
 ## [Artifact Name]
 <p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
