@@ -26,9 +26,8 @@ This perfect we made a interactive experience game. we added different ending an
 <span class="skill-tag">functions</span>
 <span class="skill-tag">conditionals</span>
 <span class="skill-tag">collaboration</span>
-[View Artifact](artifacts/Work station/)
 
-[View Artifact](artifacts/interative_experince _game/)
+[View Artifact](artifacts/interative_experince_game/)
 
 
 </div>
