@@ -60,7 +60,7 @@ This is the plan for my interactive experience. It has the written out plan of w
 <span class="skill-tag">[Skill]</span>
 <span class="skill-tag">[Skill]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/interactive_experince_plan/)
 
 </div>
 
