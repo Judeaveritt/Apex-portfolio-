@@ -31,7 +31,7 @@ This perfect we made a interactive experience game. we added different ending an
 [View Artifact](artifacts/interative_experince _game/)
 
 
-<div
+</div>
 
 
 <div class="artifact-card" markdown="1">
