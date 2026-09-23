@@ -3,7 +3,7 @@ layout: default
 title: Steal a Crown interactive experience game
 ---
 
-# Artifact Name
+# Interactive experience game
 
 <p class="artifact-meta">image PNG| September 2026</p>
 
