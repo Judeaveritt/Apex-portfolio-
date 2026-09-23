@@ -16,7 +16,7 @@ This perfect we made a interactive experience game. we added different ending an
 **My role:** I wrote all the code for the interactive game
 
 ## The Artifact
-<img src="interative_eperince_png" width="512">
+<img src="interative_experince _game.png" width="512">
 
 ![Description of artifact](IMAGE.png)
 
