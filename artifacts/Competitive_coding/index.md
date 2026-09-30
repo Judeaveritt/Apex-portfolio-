@@ -9,7 +9,7 @@ title: Competitive coding
 
 ## Summary
 
-These are the are the two competition repo for the two kattis coitions we did.in these repos are all the practice problems and the group competition problems
+These are the are the two competition repo for the two kattis coitions we did.in these repos are all the practice problems and the group competition problems.
 
 **Project:** Lock in and code
 

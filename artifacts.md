@@ -35,18 +35,22 @@ This perfect we made a interactive experience game. we added different ending an
 
 <div class="artifact-card" markdown="1">
 
-### On-Demand Knowledge Check for number conversions 
-<p class="artifact-meta">Image|August 2026</p>
+### Competitive coding
+<p class="artifact-meta">Image and Repos| September 2026</p>
 
-This artifact is how we showed are understanding of converting numbers. For the On-Demand Knowledge Check for we hade to complete 25 conversion problems to show are knowledge.
+These are the are the two competition repo for the two kattis coitions we did.in these repos are all the practice problems and the group competition problems.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">Number conversions</span>
+<span class="skill-tag">problem solving</span>
+<span class="skill-tag">collaboration</span>
+<span class="skill-tag">conditionals</span>
+<span class="skill-tag">composition under pressure</span>
+<span class="skill-tag">loops</span>
+<span class="skill-tag">variables</span>
+<span class="skill-tag">math</span>
 
-
-[View Artifact](artifacts/number_conversion/)
-
+[View Artifact](artifacts/Competitive_coding/)
 </div>
 
 <div class="artifact-card" markdown="1">
@@ -67,17 +71,20 @@ This is the plan for my interactive experience. It has the written out plan of w
 ---
 ## All Artifacts
 
-## [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### On-Demand Knowledge Check for number conversions 
+<p class="artifact-meta">Image|August 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+This artifact is how we showed are understanding of converting numbers. For the On-Demand Knowledge Check for we hade to complete 25 conversion problems to show are knowledge.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Number conversions</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+
+[View Artifact](artifacts/number_conversion/)
+
+
+
 
 
 ---
