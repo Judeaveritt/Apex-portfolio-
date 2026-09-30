@@ -61,8 +61,8 @@ These are the are the two competition repo for the two kattis coitions we did.in
 This is the plan for my interactive experience. It has the written out plan of what my game is about and what your adjetives are and also a flow chart of the path that will be implemented into the game. 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Planning </span>
+<span class="skill-tag">Creative development</span>
 
 [View Artifact](artifacts/interactive_experince_plan/)
 
